@@ -121,7 +121,7 @@ body {
   max-width: 150px;
   height: 150px;
 }
-cat {
+.six cat {
   display: inline-block;
   max-width: 150px;
   height: 150px;
