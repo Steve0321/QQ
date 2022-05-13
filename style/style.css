@@ -121,7 +121,11 @@ body {
   max-width: 150px;
   height: 150px;
 }
-
+cat {
+  display: inline-block;
+  max-width: 150px;
+  height: 150px;
+}
 .six .hat {
   position: absolute;
   width: 40px;
