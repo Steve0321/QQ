@@ -1,4 +1,27 @@
 {
+  "greeting": "Hi",
+  "name": "张琼之小朋友",
+  "greetingText": "你知道吗，其实你的名字特别好听。我第一次听见就记得很清。",
+  "wishText": "希望未来的幸福与好运能够永远伴随着你! :)",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday today!!! 虽然今年的生日有些不太好，但是它一定是一个让你让你难忘的生日 :D",
+  "textInChatBox": "Happy birthday to you!! 18岁生日快乐呀😊",
+  "sendButtonLabel": "发送",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Cuz,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "🎂🍰琼琼小朋友，Happy Birthday! 希望好运常在！🎉🎉🎉",
+  "outroText": "hhhhha, 喜不喜欢呀 😉.",
+  "replayText": "click for watching it again.",
+  "outroSmiley": ":)"
+}
+/*{
   "greeting": "Hiya",
   "name": "Lydia",
   "greetingText": "I really like your name btw!",
@@ -20,4 +43,4 @@
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
-}
+}*/
